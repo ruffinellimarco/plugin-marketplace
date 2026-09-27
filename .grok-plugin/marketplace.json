@@ -314,7 +314,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Deploy-Forward/convoy.git",
-        "sha": "46067263bde3d13e5d1dc2421ea2934a0a4bc9c3",
+        "sha": "260883d9eee99c2774ea36d706fea14300018419",
         "path": "plugin/convoy"
       },
       "homepage": "https://convoy.bot",
